@@ -1,0 +1,95 @@
+.photo {
+	float: left;
+	position: relative;
+	left : 232px;
+	background-image: url(img/photo.jpg);
+}
+.text {
+	float: left;
+	position: absolute;
+	text-align: left;
+	background-color: white;
+	height: 1025px;
+	width: 60%;
+
+}
+.body {
+	margin-bottom: -100px;
+}
+.footer {
+	position: absolute;
+	border: 1px solid #332323;
+	top: 910px;
+	left: -4px;
+	width: 924px;
+	height: 122px;
+}
+.h5 {
+	margin-left: 50px;
+	margin-top: 80px;
+}
+.h1 {
+	font-size: 25px;
+	margin-left: 43px;
+}
+.text2 {
+	margin-left: 50px;
+}
+.buttonshadow {
+	margin-left: 50px;
+	position: relative;
+	right: 0px;
+	border: 2px solid #808080;
+	border-radius: 6px;
+	width: 790px;
+	text-align: center;
+	top: 170px;
+	height: 40px;
+	padding-top: 20px;	
+}
+.text3 {
+	position: relative;
+	top: 50px;
+	left: 60px;
+}
+.text4 {
+	position: relative;
+	top: 30px;
+	left: 600px;
+	color : blue;
+}
+.buttonshadow:hover {
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+.logo1 {
+	position: relative;
+	width: 6px;
+	height: 10px;
+	bottom: 20px;
+	padding-left: 20px;
+	color: blue;
+}
+.logo2 {
+	position: relative;
+	width: 6px;
+	height: 10px;
+	bottom: 18px;
+	padding-left: 20px;
+	color: red;
+}
+.logo3 {
+	position: relative;
+	width: 6px;
+	height: 10px;
+	bottom: 18px;
+	padding-left: 20px;
+	color: #2ECCFA;
+}
+.a1 {
+	text-decoration: none;
+	color:blue;
+}
